@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Terserah</string>
+    <string name="title_activity_main">Terserah</string>
+    <string name="package_name">com.terserah.genz</string>
+    <string name="custom_url_scheme">com.terserah.genz</string>
+</resources>
